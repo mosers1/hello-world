@@ -1,2 +1,8 @@
 # hello-world
-Test repository for CPSC-5051-02.
+
+Hello Professor!
+
+This is a test message.
+
+Scott Moser
+20180408
